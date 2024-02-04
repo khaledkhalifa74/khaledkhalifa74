@@ -1,5 +1,5 @@
 ## Khaled Khalifa 
-  < Hi, i'm Khaled Khalifa 👋
+  > Hi, i'm Khaled Khalifa 👋
   
 - 👀 I’m interested in mobile app development
 - 🔭 I’m currently working on learning some advanced topics and improve my skills
