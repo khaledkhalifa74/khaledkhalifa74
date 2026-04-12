@@ -12,13 +12,19 @@
 ## 🛠️ Skills & Tools
 
 - Flutter & Dart – Building responsive and dynamic mobile applications
-- State Management – Good understanding of Bloc
+- State Management – Bloc, Riverpod
+- Clean Architecture & Design Patterns – MVVM, MVC, SOLID Principles, Dependency Injection
 - Responsive & Adaptive UI – Building apps that work smoothly across devices
 - Firebase Services – Authentication, Firestore, Cloud Functions, Firebase Storage
-- RESTful & Open APIs – Integration using HTTP protocols
-- Postman, Swagger, and Swagger Editor – API documentation and testing
-- Push & Local Notifications – Implementing user engagement systems
+- RESTful APIs & API Integration – Efficient data handling using HTTP protocols
+- Local Storage – Hive, Sqflite
+- Notifications – Push & Local Notifications
 - Google Maps Integration – Location-based app features
 - Payment Gateway Integration – Stripe, PayPal
-- Git – Code versioning and collaborative development
-- UI/UX Design Principles – Figma-based design implementation
+- CI/CD – Fastlane, Firebase App Distribution
+- Version Control – Git & GitHub (branching strategies, PR reviews)
+- API Tools – Postman, Swagger, Swagger Editor
+- Testing & Debugging – Unit Testing, performance optimization
+- App Deployment – Play Store & App Store publishing, Flavors
+- Analytics & Monitoring – Firebase Analytics
+- UI/UX Implementation – Figma to Flutter, animations & custom components
