@@ -6,7 +6,7 @@
 - 🤝 Open to collaborating on innovative projects that challenge and grow my skill set.
 - 🌟 Seeking opportunities in dynamic teams where I can contribute, learn, and make an impact.
 - 📬 Reach me at: k.khalifaa74@gmail.com
-- 📫 My linkedin account: https://www.linkedin.com/in/khaled-khalifa-b2a659231/
+- 📫 My linkedin account: https://www.linkedin.com/in/khaled-khalifa74/
 
 
 ## 🛠️ Skills & Tools
