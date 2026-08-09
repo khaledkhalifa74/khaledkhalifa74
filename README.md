@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Khaled Khalifa
-  > I’m a passionate Flutter Developer with over 2 years of experience building beautiful, scalable, and high-performance mobile applications. 🚀
+  > I’m a passionate Flutter Developer with 3 years of experience building beautiful, scalable, and high-performance mobile applications. 🚀
   
 - 👨‍💻 Currently focused on developing cross-platform mobile apps using Flutter and Dart.
 - 📚 Continuously learning advanced Flutter techniques, state management, performance optimization, and best practices.
