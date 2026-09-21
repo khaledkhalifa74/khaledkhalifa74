@@ -7,6 +7,7 @@
 - 🌟 Seeking opportunities in dynamic teams where I can contribute, learn, and make an impact.
 - 📬 Reach me at: k.khalifaa74@gmail.com
 - 📫 My linkedin account: https://www.linkedin.com/in/khaled-khalifa74/
+- 🌐 My portfolio: https://khaled-khalifa-portfolio.vercel.app/
 
 
 ## 🛠️ Skills & Tools
